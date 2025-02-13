@@ -23,6 +23,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-origin: border-box;
+  overflow-y: hidden;
 }
 .container-envelope {
   display: flex;
@@ -419,7 +420,7 @@ h1 {
 
 .after h1 {
   font-family: "Poppins";
-  font-size: 27px;
+  font-size: 24px;
   font-weight: 700;
 }
 
